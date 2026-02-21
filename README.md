@@ -1,12 +1,45 @@
-# React + Vite
+# Keeper App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+The Keeper App is a secure and user-friendly application designed to help users manage their sensitive information effectively. Whether it's passwords, notes, or other confidential data, Keeper App provides a reliable solution with built-in security features to ensure your information remains private.
 
-Currently, two official plugins are available:
+## Features
+- **Secure Storage**: Store sensitive information securely with advanced encryption.
+- **User Authentication**: Easy and secure login options.
+- **Cross-Platform Access**: Access your data from any device.
+- **User-Friendly Interface**: Clean and intuitive design for seamless navigation.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AwAiS-ahmd/Keeper-App.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Keeper-App
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the application:
+   ```bash
+   npm start
+   ```
 
-## Expanding the ESLint configuration
+## Usage
+- Launch the app and create an account.
+- Begin adding your sensitive information securely.
+- Use search functionality to quickly find your data.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Contributing
+Contributions are welcome! Please submit a pull request or raise an issue for any suggestions.
+
+## License
+This project is licensed under the MIT License.
+
+## Contact
+For any inquiries, please reach out to [your-email@example.com](mailto:your-email@example.com).
+
+## Date
+This README was last updated on February 21, 2026.
