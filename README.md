@@ -39,7 +39,7 @@ Contributions are welcome! Please submit a pull request or raise an issue for an
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries, please reach out to [your-email@example.com](mailto:your-email@example.com).
+For any inquiries, please reach out to awais.ahmadbsh@gmail.com).
 
 ## Date
 This README was last updated on February 21, 2026.
